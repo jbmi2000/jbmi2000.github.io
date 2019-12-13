@@ -1,11 +1,11 @@
 # Site settings
 author: Jeffrey Marbury
-title: 
+title: This is Me
 header-img: img/home-bg.png
 email: jeff.marbury@gmail.com
 copyright_name: Jeffrey Marbury
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Brief History and New Experiences
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: jmarbury5
 github_username:  jbmi2000
