@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The Story of Me"
+title:      "Me, a Software Engineer?  OK!"
 date:       2019-12-14 21:57:26 -0500
 permalink:  the_story_of_me
 ---
