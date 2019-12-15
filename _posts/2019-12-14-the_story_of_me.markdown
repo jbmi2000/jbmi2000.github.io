@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Story of Me"
-date:       2019-12-15 02:57:25 +0000
+date:       2019-12-14 21:57:26 -0500
 permalink:  the_story_of_me
 ---
 
@@ -26,6 +26,14 @@ My professional career has been all about what happens when those circuits are p
 ***"Get back to where you once belonged"***
 
 How does it work?  Yes, that question that I had been asking myself for years in the past, reared its ugly head again.  How does it work?  What makes software do what it does?  Who writes those error messages that few people understand?  How does it feel to be a part of creating something new and watching others benefit from it?  Can't honestly say that I pondered making the world a better place but it certainly is a respectable goal and a great benefit to pass on.  
+
+**Nice work but now what?**
+
+OK so I had the burning question to answer, but how?  I decided to go back to school.  My former college advisor, who I was surprise was still college-advising, told me "Great!  Welcome back!  With the credits you already have in your former major, all you would need is about 35 more for a degree, So that will break down to about 12 - 15 credits per semester.  You'll be done in a year.   He didn't know that I was now married, working a full time job, and raising 2 children.  Gone are the days where I could go to school carrying a full time course load.  Enter Career Karma!
+
+**The Will and the Way**
+
+So I had given up my quest to know more until one of about 50 popup ads caught my attention on Instagram.  It wasn't *"Get rich in 30 days"* or *"Lose 30 lbs per week"*.  It was "learn how to code", and I thought, hey, that's what I've been looking for.  I clicked on the ad which took me to a video and some other stuff that drew me in to an actual system that painted a realistic picture of how to accomplish goals, mainly by creating solid habits.  I met the co-founders, Ruben, Artur and Timur, and the rest is history.  
 
 **And with that...**
 
