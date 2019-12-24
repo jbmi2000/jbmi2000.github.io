@@ -7,7 +7,7 @@ permalink:  the_story_of_me
 
 Rarely does one get the opportunity to explain why steps are taken to do certain things in their lives, so I am grateful for this chance to do so here.  On the other hand, it is a bit of a challenge to talk about oneself, but I will give it my best shot.  
 
-**Harpo, how does this work?**
+**Harpo, how d'is work?**
 
 For as long as I can remember, I have been intrigued by how things work.  As a little boy, I used to get toys for Christmas in December, and they would be completely disassembed by February.  I would play with them and then take them apart to see how they worked.  Sometimes I would be able to put them back together again, but , much to my parents' dismay, most of what I received would turn into a pile of spare parts that I would always promise to put back together but never did.  
 
