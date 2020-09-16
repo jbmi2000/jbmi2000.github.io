@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Art of Simplicity-Peace with Complexity:  CLI"
-date:       2020-02-17 02:49:39 +0000
+date:       2020-02-16 21:49:40 -0500
 permalink:  the_art_of_simplicity-peace_with_complexity_cli
 ---
 
@@ -33,10 +33,10 @@ end
 
 ```
 
-This is a method, #self.scrape_services, that exists in the Scraper class of the project.  It's purpose is to open the webpage saved inteh variable html, using the Nokogiri gem, and then saving the result in a variable called doc.  Once saved, the method will then iterate over the results and create new items to be stored in the @@all class variable in the Services class.  Those items are what comprise the list of services that are presented to the customer for selection.
+This is a method, #self.scrape_services, that exists in the Scraper class of the project.  It's purpose is to open the webpage saved in the variable html, using the Nokogiri gem, and then saving the result in a variable called doc.  Once saved, the method will then iterate over the results and create new items to be stored in the @@all class variable in the Services class.  Those items are what comprise the list of services that are presented to the customer for selection.
 
 **The Small Details**
 
-One thing that I have learned from doing this project is that every character counts and 'pry' really is your best friend.  Pry is a wonderful little gem that allows you to interupt your code processing at a certain point, to test if that input will produce the desired result.  The trick is knowing where to place the "binding.pry" entry for the bset return.  Fortunately, you can move it around as needed.
+One thing that I have learned from doing this project is that every character counts and 'pry' really is your best friend.  Pry is a wonderful little gem that allows you to interupt your code processing at a certain point, to test if that input will produce the desired result.  The trick is knowing where to place the "binding.pry" entry for the best return.  Fortunately, you can move it around as needed.
 
 Looking forward to the next round!
