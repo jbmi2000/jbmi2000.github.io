@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Relationships-Did someone say *'Peace with Complexity'*?"
-date:       2020-10-05 01:02:29 +0000
+date:       2020-10-04 21:02:30 -0400
 permalink:  relationships-did_someone_say_peace_with_complexity
 ---
 
