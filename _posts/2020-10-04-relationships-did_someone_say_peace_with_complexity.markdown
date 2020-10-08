@@ -14,7 +14,7 @@ When I was first introduced to the concept of relationships between classes in R
 
 There are several different types of relationships that can be used to allow class objects to take ownership and/or be acted upon by other class objects.  For the purpose of this blog, we will be briefly discussing the has_many/belongs_to pair. 
 
-### You Belong to Me
+### *"You Belong to Me"*
 
 So I love that Carly Simon hit.  Though I'll admit to being  a bit more partial to the Michael McDonald and [Anita Baker](https://www.youtube.com/watch?v=DbKRrsDZ4MU) versions.  Granted, Ruby object relationships aren't quite as sensual, but hey, whatever helps the concept.  Ha!  
 
