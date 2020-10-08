@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Relationships-Did someone say 'Peace with Complexity'?:Sinatra"
+title:      "Relationships-Did someone say *Peace with Complexity?*:Sinatra"
 date:       2020-10-04 21:02:30 -0400
 permalink:  relationships-did_someone_say_peace_with_complexity
 ---
