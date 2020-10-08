@@ -6,15 +6,15 @@ permalink:  relationships-did_someone_say_peace_with_complexity
 ---
 
 
-Being a man of a certain age, I'd like to think of myself as fairly knowledgeable in the area of relationships.  After all, I've had several, the most recent of which is lasting over 23 years and counting.  With a stretch like that, some might even venture to say that I'm a bit of an expert in the subject.  I'm not ready to open up a counseling clinic, but I could probably hold my own in a discussion...maybe.
+I'd like to think of myself as fairly knowledgeable in the area of relationships.  After all, I've had several, the most recent of which is lasting for a good stretch by current society standards.  Some might even venture to say that I'm a bit of an expert in the subject.  I'm not ready to open up a counseling clinic, but I could probably hold my own in a discussion...maybe.
 
-##### Along came Ruby
+### Along came Ruby
 
 When I was first introduced to the concept of relationships between classes in Ruby, I thought "piece of cake! I got this!"  Ok, so I was wrong.  Although, I will say that understanding relationships is not as difficult as I once thought.  Knowing that there are many different types of class relationships is important, but moreover, how those different relationships effect the tools that your are given to allow your classes to interact.
 
 There are several different types of relationships that can be used to allow class objects to take ownership and/or be acted upon by other class objects.  For the purpose of this blog, we will be briefly discussing the has_many/belongs_to pair. 
 
-##### You Belong to Me
+### You Belong to Me
 
 So I love that Carly Simon hit.  Though I'll admit to being  a bit more partial to the Michael McDonald and [Anita Baker](https://www.youtube.com/watch?v=DbKRrsDZ4MU) versions.  Granted, Ruby object relationships aren't quite as sensual, but hey, whatever helps the concept.  Ha!  
 
@@ -67,4 +67,4 @@ get '/customers/index' do
 
 Here, in the route to display a user's customers, I was able to identify and store the current user through the Helpers.current_user method, into the @user instance variable, passing in the session infomation.  Then I called the .customers method on the current user (@user) and stored only their current customers in the @customers instance variable.  
 
-What I learned here is that, there is always something to learn about relationships.  Admittedly, this is not quite as exciting as a first date, or being able to brag about a 23-year marriage, but when your code works, magic happens!  Am I right?
+What I learned here is that, there is always something to learn about relationships.  Admittedly, this is not quite as exciting as a first date, or being able to brag about a successful marriage, but when your code works, magic happens!  Am I right?
