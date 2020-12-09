@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**My Uncle Toodie - Rails Portfolio Project**"
-date:       2020-12-09 04:06:20 +0000
+title:      "My Uncle Toodie - Rails Portfolio Project"
+date:       2020-12-08 23:06:21 -0500
 permalink:  my_uncle_toodie_-_rails_portfolio_project
 ---
 
